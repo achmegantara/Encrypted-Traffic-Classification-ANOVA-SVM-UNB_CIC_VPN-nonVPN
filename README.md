@@ -13,4 +13,4 @@
 <img src="ANOVA-SVM.png">
 
 ## Proposed method:
-<img src="decision-boundary.png">
+<img align="center" src="decision-boundary.png">
