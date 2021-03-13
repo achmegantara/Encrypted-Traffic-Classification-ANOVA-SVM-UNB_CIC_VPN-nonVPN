@@ -14,3 +14,6 @@
 
 ## Proposed method:
 <img align="center" src="decision-boundary.png">
+
+## If you use this code, please cite this paper:
+[1] A. A. Megantara and T. Ahmad, “ANOVA-SVM for Selecting Subset Features in Encrypted Internet Traffic Classification,” Int. J. Intell. Eng. Syst., vol. 14, no. 2, pp. 536–546, 2021.
